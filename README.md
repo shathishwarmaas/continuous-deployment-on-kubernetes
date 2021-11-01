@@ -1,4 +1,4 @@
-# Lab: Build a Continuous Deployment Pipeline with Jenkins and Kubernetes
+#  Build a Continuous Deployment Pipeline with Jenkins and Kubernetes
 
 For a more in depth best practices guide, go to the solution posted [here](https://cloud.google.com/solutions/jenkins-on-container-engine).
 
